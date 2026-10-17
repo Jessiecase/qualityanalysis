@@ -1,0 +1,10 @@
+title: AI 式紮根歷程分析
+description: 從資料到洞見的 Agentic AI 協作寫作術
+theme: jekyll-theme-cayman
+lang: zh-Hant
+url: "https://jessiecase.github.io"
+baseurl: "/qualityanalysis"
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
